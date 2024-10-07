@@ -102,6 +102,7 @@ export default function TodoListWithImage({ onLogout }) {
         </div>
         <div className="input-group mb-3">
           <input
+          
             type="text"
             className="form-control"
             value={newTask}
